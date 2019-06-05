@@ -14,6 +14,6 @@ app.use(bodyParser.urlencoded({ extended: true }))
 app.use(lusca.xframe("SAMEORIGIN"))
 app.use(lusca.xssProtection(true))
 
-app.use("/package/v1", router.packageRouter)
+app.use("/package/", router.packageRouter)
 
 export default app
