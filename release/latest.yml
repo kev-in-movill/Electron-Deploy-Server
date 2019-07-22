@@ -1,8 +1,8 @@
-version: 0.1.6
+version: 0.1.7
 files:
-  - url: dashboard-setup-0.1.6.exe
-    sha512: MAWOy92asZcuMdeTlypwmZncDAeqOCKkIDHGjmr2irMhiTEoPh6iLpHBqb4WYUG9Qf86rakv2xE0QVR1lW8XSg==
-    size: 94041592
-path: dashboard-setup-0.1.6.exe
-sha512: MAWOy92asZcuMdeTlypwmZncDAeqOCKkIDHGjmr2irMhiTEoPh6iLpHBqb4WYUG9Qf86rakv2xE0QVR1lW8XSg==
-releaseDate: '2019-07-22T09:04:46.921Z'
+  - url: dashboard-setup-0.1.7.exe
+    sha512: Kh35LL3YMmKiojT9f4kf2duXOVY6MOBtLBFK+n9Abq3PxdXmWxEqNAzgf3HIUI0YDuVK1tgCDy/8QL+VaCLq1A==
+    size: 94041152
+path: dashboard-setup-0.1.7.exe
+sha512: Kh35LL3YMmKiojT9f4kf2duXOVY6MOBtLBFK+n9Abq3PxdXmWxEqNAzgf3HIUI0YDuVK1tgCDy/8QL+VaCLq1A==
+releaseDate: '2019-07-22T09:16:02.582Z'
