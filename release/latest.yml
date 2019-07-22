@@ -1,8 +1,8 @@
 version: 0.1.7
 files:
-  - url: dashboard-setup-0.1.7.exe
-    sha512: Kh35LL3YMmKiojT9f4kf2duXOVY6MOBtLBFK+n9Abq3PxdXmWxEqNAzgf3HIUI0YDuVK1tgCDy/8QL+VaCLq1A==
-    size: 94041152
-path: dashboard-setup-0.1.7.exe
-sha512: Kh35LL3YMmKiojT9f4kf2duXOVY6MOBtLBFK+n9Abq3PxdXmWxEqNAzgf3HIUI0YDuVK1tgCDy/8QL+VaCLq1A==
-releaseDate: '2019-07-22T09:16:02.582Z'
+  - url: MOVILL-Setup-0.1.7.exe
+    sha512: Qb0aJ3sxhths+h5PmTwNFioBjaZ1HHGt/hM81xq0Osug245egZLzDg2MI4f/WmxuaWgNA6CTt2alduZ6Ut4QLQ==
+    size: 94041360
+path: MOVILL-Setup-0.1.7.exe
+sha512: Qb0aJ3sxhths+h5PmTwNFioBjaZ1HHGt/hM81xq0Osug245egZLzDg2MI4f/WmxuaWgNA6CTt2alduZ6Ut4QLQ==
+releaseDate: '2019-07-22T09:29:23.230Z'
