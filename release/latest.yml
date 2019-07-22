@@ -1,8 +1,8 @@
 version: 0.1.7
 files:
   - url: MOVILL-Setup-0.1.7.exe
-    sha512: Qb0aJ3sxhths+h5PmTwNFioBjaZ1HHGt/hM81xq0Osug245egZLzDg2MI4f/WmxuaWgNA6CTt2alduZ6Ut4QLQ==
-    size: 94041360
+    sha512: qneXfJV/loc431tHL9MqGxZIsgzSxoiGUo4VpZwniMpxOIOSayrg3PLh2QXvQUG7Hg7vbdIaeVG7ijicmU19qA==
+    size: 93993362
 path: MOVILL-Setup-0.1.7.exe
-sha512: Qb0aJ3sxhths+h5PmTwNFioBjaZ1HHGt/hM81xq0Osug245egZLzDg2MI4f/WmxuaWgNA6CTt2alduZ6Ut4QLQ==
-releaseDate: '2019-07-22T09:29:23.230Z'
+sha512: qneXfJV/loc431tHL9MqGxZIsgzSxoiGUo4VpZwniMpxOIOSayrg3PLh2QXvQUG7Hg7vbdIaeVG7ijicmU19qA==
+releaseDate: '2019-07-22T10:35:12.096Z'
