@@ -1,0 +1,8 @@
+version: 0.1.6
+files:
+  - url: dashboard-setup-0.1.6.exe
+    sha512: MAWOy92asZcuMdeTlypwmZncDAeqOCKkIDHGjmr2irMhiTEoPh6iLpHBqb4WYUG9Qf86rakv2xE0QVR1lW8XSg==
+    size: 94041592
+path: dashboard-setup-0.1.6.exe
+sha512: MAWOy92asZcuMdeTlypwmZncDAeqOCKkIDHGjmr2irMhiTEoPh6iLpHBqb4WYUG9Qf86rakv2xE0QVR1lW8XSg==
+releaseDate: '2019-07-22T09:04:46.921Z'
